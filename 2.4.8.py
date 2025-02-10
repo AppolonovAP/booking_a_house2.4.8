@@ -48,7 +48,7 @@ try:
 
 finally:
     # Задержка для просмотра результата
-    time.sleep(120)
+    time.sleep(36)
 
     # Закрытие драйвера
     browser.quit()
